@@ -8,6 +8,11 @@
 	"repository": "github:discretegames/npm-test-package",
 	"scripts": {
 		"build": "tsc",
+		"prepare": "npm run build",
+		"prepublishOnly": "",
+		"preversion": "",
+		"version": "git add -A src",
+		"postversion": "git push && git push --tags",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [
