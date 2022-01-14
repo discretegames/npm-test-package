@@ -23,7 +23,7 @@ import TestPackage, { var1, var2, var3, func1, func2 } from "@discretegames/npm-
 func1("Hello, World!");
 ```
 
-Run `npm publish --access=public` to publish the package to [NPM][1].
+Run `npm run deploy` to publish the package to [NPM][1] (this does `npm publish --access=public`).
 
 Run `npm version <update_type>` with `patch`, `minor`, or `major` to advance the version. Do this before a new publish.
 

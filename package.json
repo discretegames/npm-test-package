@@ -7,6 +7,7 @@
 	"homepage": "https://github.com/discretegames/npm-test-package",
 	"repository": "github:discretegames/npm-test-package",
 	"scripts": {
+		"deploy": "npm publish --access=public",
 		"build": "tsc",
 		"prepare": "npm run build",
 		"prepublishOnly": "",
