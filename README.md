@@ -25,7 +25,7 @@ func1("Hello, World!");
 
 Run `npm publish --access=public` to publish the package to [NPM][1].
 
-Run `npm version <update_type>` with `patch`, `minor`, or `major` to advance the version.
+Run `npm version <update_type>` with `patch`, `minor`, or `major` to advance the version. Do this before a new publish.
 
 Run `npm run build` to turn the TS in /src into JS in /dist (publish does this automatically).
 
