@@ -1,0 +1,6 @@
+To think about:
+
+- minifying JS code
+- is webpack needed for more complex stuff? https://itnext.io/how-to-build-and-publish-npm-packages-with-webpack-dea19bb14627
+- ts/eslint
+- prettier options
