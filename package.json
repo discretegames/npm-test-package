@@ -1,0 +1,12 @@
+{
+	"name": "npm-test-package",
+	"version": "0.0.1",
+	"description": "Just a test NPM package to learn how things work.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "discretegames",
+	"license": "ISC"
+}
