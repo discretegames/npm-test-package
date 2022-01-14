@@ -14,6 +14,7 @@ export const func2 = (a: number, b: number) => a + b;
 export default {
 	var1,
 	var2,
+	var3,
 	func1,
 	func2,
 };
