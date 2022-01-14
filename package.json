@@ -1,5 +1,5 @@
 {
-	"name": "npm-test-package",
+	"name": "@discretegames/npm-test-package",
 	"version": "0.0.1",
 	"description": "Just a test NPM package to learn how things work.",
 	"main": "dist/index.js",
